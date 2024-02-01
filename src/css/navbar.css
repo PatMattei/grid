@@ -1,0 +1,14 @@
+.navbar {
+    background-color: rgb(66, 66, 78);
+    color: #fff;
+}
+
+.nav-items {
+    list-style-type: none;
+    display: flex;
+    justify-content: space-around;
+}
+
+.nav-item {
+    text-decoration: none;
+}
